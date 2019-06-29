@@ -1,0 +1,64 @@
+{
+    "name": "#AndresCodifica",
+    "short_name": "#AndresCodifica",
+    "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "img/pinguin.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pinguin.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pinguin.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pinguin.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pinguin.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "img/pinguin.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "img/icon.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }

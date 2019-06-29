@@ -1,0 +1,45 @@
+.bloque{
+	width: 1205px;
+	height: 500px;
+	margin: auto;
+}
+.conten{
+	width: 963px;
+	height: 500px;
+	float: left;
+}
+
+.contenido-banner{
+  width: 240px;
+  height: 500px;
+  background: grey;
+  float: left;
+}
+
+.contenedor strong{
+  font-size: 1.2em;
+}
+
+.banner-medium{
+	display: none;
+}
+.contenido{
+	float: left;
+}
+.bloque-acerca{
+  width:70%;
+ 
+  float: left;
+}
+.bloque-entrada{
+  width:30%;
+  
+  float: left;
+}
+.acerca-de{
+min-width: 1200px;
+max-width: 1300px;
+ 
+min-height: 340px;
+margin:auto;
+}

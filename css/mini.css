@@ -1,0 +1,26 @@
+.conten{
+	width: 400px;
+	margin: auto;
+
+}
+.banner-medium{
+	display: block;
+	background: grey;
+}
+.contenido-banner{
+	display: none;
+}
+.info-page, .contenido, .banner-medium{
+	display: block;
+	margin: auto;
+}
+.bloque-entrada ul{
+	padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+
+.acerca-de{
+min-height: 700px;
+}
+

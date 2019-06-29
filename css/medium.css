@@ -1,0 +1,43 @@
+.contenido-medium{
+	width: 320px;
+	
+	float: left;
+	font-size: 0.8em;
+
+}
+.contenido-medium h3{
+	font-size: 1.8em;
+}
+.conten{
+	width: 700px;
+	height: 500px;
+
+	margin: auto;
+}
+.contenido-banner{
+	display: block;
+	width: 90%;
+	height: 100px;
+	border: 1px solid black;
+	margin: auto;
+	/*limpiar float*/
+	clear: both
+}
+.contenido{
+	float: left;
+}
+.acerca-de{
+  min-height: 400px;
+  max-height: 700px;
+}
+.bloque-acerca{
+  width:70%;
+  float: left;
+}
+.bloque-entrada{
+  width:30%;
+    float: left;
+}
+.acerca-de{
+min-height: 400px;
+}
